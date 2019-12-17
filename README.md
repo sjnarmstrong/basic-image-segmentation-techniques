@@ -6,8 +6,8 @@ This project implements unsupervised segmentation techniques inclusing:
 
 ## Report 
 
-![]("report-svg/report-20.SVG")
-![](report-svg/report-21.SVG)
+![report]("report-svg/report-20.SVG")
+![report2](report-svg/report-21.SVG)
 ![](report-svg/report-22.SVG)
 ![](report-svg/report-23.SVG)
 ![](report-svg/report-24.SVG)
